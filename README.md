@@ -1,90 +1,92 @@
-<div class="grid">
-  <!-- Left column -->
-  <div>
-    <section class="card about">
-      <div class="section-title">About</div>
-      <p>Hi — I'm Sanjay, a passionate and detail-focused Java Full Stack Developer. I build clean, maintainable web applications using Java on the backend and modern frontend practices. I love turning ideas into polished, user-friendly products.</p>
-      <p>My work combines strong object-oriented fundamentals with practical full-stack experience. I enjoy collaborating in teams, learning new tools, and improving code quality every day.</p>
-      <a class="download" href="#" onclick="alert('Resume download placeholder - replace with real link')">Download Resume (PDF)</a>
-    </section>
+<!-- 🌟 Sanjay D — Stunning Portfolio Front Page README -->
 
-    <section class="card" style="margin-top:14px">
-      <div class="section-title">Key Skills</div>
-      <div class="skills">
-        <span class="chip">Java</span>
-        <span class="chip">Spring Boot</span>
-        <span class="chip">REST APIs</span>
-        <span class="chip">HTML • CSS • JavaScript</span>
-        <span class="chip">React (basics)</span>
-        <span class="chip">SQL • MySQL</span>
-        <span class="chip">Git • GitHub</span>
-        <span class="chip">Unit Testing</span>
-        <span class="chip">OOP • Data Structures</span>
-      </div>
-    </section>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Sanjay%20D%20👨‍💻&fontAlignY=40&fontSize=40&desc=Java%20Full%20Stack%20Developer&descAlignY=65&descAlign=50&fontColor=ffffff" />
+</p>
 
-    <section class="card" style="margin-top:14px">
-      <div class="section-title">Selected Projects</div>
-      <div class="projects">
-        <div class="project">
-          <h3>Project A — E-Commerce Backend</h3>
-          <p>Design and implementation of a RESTful microservice using Spring Boot, JWT authentication, and MySQL. Focused on maintainability and clean API design.</p>
-        </div>
-        <div class="project">
-          <h3>Project B — Portfolio Website</h3>
-          <p>Responsive single-page portfolio showcasing projects, blog links, and contact form. Built with HTML/CSS and lightweight JS.</p>
-        </div>
-        <div class="project">
-          <h3>Project C — Task Manager (Team)</h3>
-          <p>Collaborative task manager with role-based access, implemented using Spring Boot and React. Practiced CI and code reviews.</p>
-        </div>
-      </div>
-    </section>
+<h2 align="center">💻 Java Full Stack Developer | 🎨 Frontend Designer | 🚀 Tech Enthusiast</h2>
 
-    <section class="card" style="margin-top:14px">
-      <div class="section-title">Experience</div>
-      <div style="display:flex;flex-direction:column;gap:8px">
-        <div>
-          <strong>Xworkz</strong> — Java Full Stack Developer (Current)
-          <div class="meta">Worked on backend services, integrated APIs, and collaborated with frontend teams to ship features.</div>
-        </div>
-      </div>
-    </section>
+---
 
-  </div>
+### 🧠 About Me
+🎓 **Computer Science & Engineering** student at **Shree Devi Institute of Technology, Mangalore (VTU University)**  
+📅 **Graduation Year:** 2025  
+💼 Currently pursuing **Java Full Stack Development** at **Xworkz Company**  
+💡 Passionate about **building full stack web apps**, **clean UI design**, and **writing efficient backend logic**.  
+🌱 Constantly learning and improving through hands-on projects.
 
-  <!-- Right column -->
-  <aside>
-    <section class="card">
-      <div class="section-title">Contact</div>
-      <ul class="contact-list">
-        <li><strong>Phone:</strong> <a href="tel:+918618793041">+91 86187 93041</a></li>
-        <li><strong>Email:</strong> <a href="mailto:sanjaysanji700@gmail.com">sanjaysanji700@gmail.com</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sanjay-d-61457b229" target="_blank" rel="noopener">linkedin.com/in/sanjay-d-61457b229</a></li>
-        <li><strong>Instagram:</strong> <a href="https://instagram.com/thename_is_sanjay" target="_blank" rel="noopener">@thename_is_sanjay</a></li>
-        <li><strong>Location:</strong> Mangalore, India</li>
-      </ul>
-    </section>
+---
 
-    <section class="card" style="margin-top:14px">
-      <div class="section-title">Education</div>
-      <div><strong>Shree Devi Institute of Technology — B.E. Computer Science</strong>
-        <div class="meta">Visvesvaraya Technological University (VTU) — Graduating 2025</div>
-      </div>
-    </section>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,html,css,js,bootstrap,tailwind,git,github,vscode,figma&perline=7" />
+</p>
 
-    <section class="card" style="margin-top:14px">
-      <div class="section-title">Quick Links</div>
-      <div style="display:flex;flex-direction:column;gap:8px">
-        <a href="#" class="chip">GitHub: github.com/your-username</a>
-        <a href="#" class="chip">Projects & Demos</a>
-        <a href="#" class="chip">Blog / Articles</a>
-      </div>
-    </section>
+---
 
-  </aside>
-</div>
+### 🚀 Featured Projects
 
-<footer>
-  <div>Thanks for visiting — feel free to clone this README, customize it, and host it on GitHub Pages.</div>
-</footer>
+#### 🏨 **Hotel Management System**
+🧩 **Tech Stack:** Java, JDBC, MySQL, JSP  
+📝 A complete hotel booking and billing management system with database connectivity.  
+🔗 [View Repository](https://github.com/sanjayd/hotel-management-system)
+
+---
+
+#### 🌐 **Personal Portfolio Website**
+🎨 **Tech Stack:** HTML, CSS, JavaScript, React  
+💼 Designed and developed a personal portfolio website showcasing skills, resume, and projects.  
+🔗 [Live Demo](https://sanjayd.github.io/) | [Source Code](https://github.com/sanjayd/portfolio)
+
+---
+
+#### 📦 **E-Commerce Web App**
+🛒 **Tech Stack:** Java Spring Boot, MySQL, React  
+💰 Built a full stack e-commerce app with product filters, cart system, and payment gateway integration.  
+🔗 [View Repository](https://github.com/sanjayd/ecommerce-app)
+
+---
+
+#### 🧮 **Wrapper Class & OOP Concepts**
+💡 A collection of Java programs demonstrating **Wrapper Classes**, **OOP**, and **Functional Interfaces**.  
+🔗 [View Code Examples](https://github.com/sanjayd/java-practice)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjayd&show_icons=true&theme=radical&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayd&theme=radical&hide_border=true" height="160px" />
+</p>
+
+---
+
+### 🌍 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjay-d-61457b229" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sanjaysanji700@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/thename_is_sanjay" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+📞 **Mobile:** 8618793041  
+
+---
+
+### 🎯 My Goals
+✨ Become a **Professional Java Full Stack Developer**  
+🌍 Build innovative web apps that impact people’s lives  
+🎨 Blend **logic and creativity** to design smart software solutions  
+
+---
+
+> “Don’t just code — create, design, and inspire.”
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
