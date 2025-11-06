@@ -1,4 +1,4 @@
-<!-- 🌟 Sanjay D — Stunning Portfolio Front Page README -->
+<!-- 🌟 Sanjay D — Animated Portfolio Front Page README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Sanjay%20D%20👨‍💻&fontAlignY=40&fontSize=40&desc=Java%20Full%20Stack%20Developer&descAlignY=65&descAlign=50&fontColor=ffffff" />
@@ -9,11 +9,12 @@
 ---
 
 ### 🧠 About Me
-🎓 **Computer Science & Engineering** student at **Shree Devi Institute of Technology, Mangalore (VTU University)**  
+🎓 **Computer Science & Engineering** student at  
+**Shree Devi Institute of Technology, Mangalore (VTU University)**  
 📅 **Graduation Year:** 2025  
 💼 Currently pursuing **Java Full Stack Development** at **Xworkz Company**  
-💡 Passionate about **building full stack web apps**, **clean UI design**, and **writing efficient backend logic**.  
-🌱 Constantly learning and improving through hands-on projects.
+💡 Passionate about **building full-stack apps**, **clean UI design**, and **modern Java frameworks**.  
+🧠 Exploring **Spring Boot**, **React**, and **UI animation techniques**.  
 
 ---
 
@@ -24,32 +25,41 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
 
-#### 🏨 **Hotel Management System**
-🧩 **Tech Stack:** Java, JDBC, MySQL, JSP  
-📝 A complete hotel booking and billing management system with database connectivity.  
-🔗 [View Repository](https://github.com/sanjayd/hotel-management-system)
+<p align="center">
+  <a href="https://github.com/sanjayd/hotel-management-system" target="_blank">
+    <img src="https://github.com/sanjayd/hotel-management-system/raw/main/preview.gif" width="400" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:10px;" />
+  </a>
+  <a href="https://github.com/sanjayd/ecommerce-app" target="_blank">
+    <img src="https://github.com/sanjayd/ecommerce-app/raw/main/preview.gif" width="400" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2); margin:10px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanjayd/hotel-management-system">
+    <b>🏨 Hotel Management System</b>
+  </a> — Java | JDBC | MySQL  
+  <br>
+  A desktop-based booking and billing system with DB connectivity.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sanjayd/ecommerce-app">
+    <b>🛒 E-Commerce Web App</b>
+  </a> — Spring Boot | React | MySQL  
+  <br>
+  A full-stack shopping site with cart, filters, and secure checkout.
+</p>
 
 ---
 
-#### 🌐 **Personal Portfolio Website**
-🎨 **Tech Stack:** HTML, CSS, JavaScript, React  
-💼 Designed and developed a personal portfolio website showcasing skills, resume, and projects.  
-🔗 [Live Demo](https://sanjayd.github.io/) | [Source Code](https://github.com/sanjayd/portfolio)
+### 🌐 Live Portfolio  
+🎨 **My Personal Website:** [https://sanjayd.github.io](https://sanjayd.github.io)  
 
----
-
-#### 📦 **E-Commerce Web App**
-🛒 **Tech Stack:** Java Spring Boot, MySQL, React  
-💰 Built a full stack e-commerce app with product filters, cart system, and payment gateway integration.  
-🔗 [View Repository](https://github.com/sanjayd/ecommerce-app)
-
----
-
-#### 🧮 **Wrapper Class & OOP Concepts**
-💡 A collection of Java programs demonstrating **Wrapper Classes**, **OOP**, and **Functional Interfaces**.  
-🔗 [View Code Examples](https://github.com/sanjayd/java-practice)
+<p align="center">
+  <img src="https://github.com/sanjayd/portfolio/raw/main/preview.gif" width="600" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
+</p>
 
 ---
 
@@ -57,6 +67,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjayd&show_icons=true&theme=radical&hide_border=true" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayd&theme=radical&hide_border=true" height="160px" />
+</p>
+
+---
+
+### 🎨 Animated Skills Board
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=☕+Java+Developer;🌱+Spring+Boot+Learner;🎨+Frontend+UI+Designer;💻+React+Explorer;📚+Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -79,13 +96,14 @@
 ---
 
 ### 🎯 My Goals
-✨ Become a **Professional Java Full Stack Developer**  
-🌍 Build innovative web apps that impact people’s lives  
-🎨 Blend **logic and creativity** to design smart software solutions  
+✨ To become a **Professional Java Full Stack Developer**  
+🌍 Build and deploy **real-world scalable apps**  
+🎨 Design **interactive UIs** blending logic & creativity  
+🤝 Contribute to **open source projects**
 
 ---
 
-> “Don’t just code — create, design, and inspire.”
+> 💬 “Code with logic, design with passion, deliver with purpose.”
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
