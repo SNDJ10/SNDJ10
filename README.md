@@ -61,6 +61,10 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 * 🏆 **Achievement:** Awarded Certificate of Achievement for outstanding dedication.
 
 ---
+### 🛠 Mastered Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,bootstrap,git,maven,postman,idea" />
+</p>
 
 ### 🚀 **Key Projects**
 
