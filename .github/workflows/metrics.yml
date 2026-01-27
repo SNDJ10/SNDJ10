@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing to master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,20 +11,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: SNDJ10
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Plugin: Most Used Languages
+          # This is the 3D block calendar you liked
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # This shows your 93% Java stats clearly
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           
-          # Plugin: Contributions Calendar (The 3D block look)
-        # Plugin: Achievements
+          # Fixed: achievements turned off to stop the "Unexpected Error"
           plugin_achievements: no
