@@ -119,13 +119,7 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ---
 
-### 📊 My GitHub Dashboard
 
-<div align="center">
-  <img src="https://github.com/SNDJ10/SNDJ10/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
-<br/>
 
 ### 🐍 Contribution Snake
 <div align="center">
