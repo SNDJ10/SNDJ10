@@ -103,3 +103,5 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
   📧 <b>Connect with me:</b> <a href="mailto:sanjaysanji700@gmail.com">sanjaysanji700@gmail.com</a>
 </p>
 
+![Metrics](https://github.com/SNDJ10/SNDJ10/blob/master/github-contribution-grid-snake.svg)
+<img src="https://github.com/SNDJ10/SNDJ10/releases/download/metrics/github-metrics.svg" alt="Metrics" width="100%">
