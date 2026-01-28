@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sanjay D! 👋</h1>
-<h3 align="center">Full Stack Java & Cloud Application Developer (Fresher)</h3>
+<h3 align="center">Full Stack Java & Cloud Application Developer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-d-61457b229">
