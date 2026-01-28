@@ -50,6 +50,10 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 </p>
 
 ---
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SNDJ10/SNDJ10/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+</div>
 
 ### 💼 **Experience**
 
@@ -122,7 +126,4 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 <br/>
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SNDJ10/SNDJ10/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-</div>
+
