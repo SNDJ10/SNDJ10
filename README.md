@@ -99,17 +99,21 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNDJ10&show_icons=true&theme=radical" alt="Sanjay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SNDJ10&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=radical"
+    alt="Most Used Languages"
+    height="165"
+  />
+</div>
 
----
-<p align="center">
-  📧 <b>Connect with me:</b> <a href="mailto:sanjaysanji700@gmail.com">sanjaysanji700@gmail.com</a>
-</p>
 
 ---
 
