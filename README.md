@@ -55,6 +55,9 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
   <img src="https://raw.githubusercontent.com/SNDJ10/SNDJ10/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
 
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SNDJ10&theme=github-dark&hide_border=true)
+
 ### 💼 **Experience**
 
 **Cloud Application Developer – Intern** 🏢 _Rooman Technologies Pvt. Ltd._ | 📅 _Sept 2024 – Feb 2025_
@@ -99,20 +102,18 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SNDJ10&show_icons=true&theme=radical"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=radical"
-    alt="Most Used Languages"
-    height="165"
-  />
-</div>
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark&hide_border=true)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=SNDJ10&theme=darkhub&no-frame=true&row=2&column=6)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
+
 
 
 ---
