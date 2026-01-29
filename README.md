@@ -109,8 +109,6 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SNDJ10&theme=darkhub&no-frame=true&row=2&column=6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
 
