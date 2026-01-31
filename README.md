@@ -101,12 +101,12 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 * 📜 **Cloud Application Developer Certification** (Rooman Technologies / NASSCOM / IBM)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SNDJ10&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SNDJ10&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
 
 
 ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
