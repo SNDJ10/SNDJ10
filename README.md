@@ -107,7 +107,8 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanjay-d&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/sanjay-d)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
