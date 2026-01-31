@@ -104,10 +104,13 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SNDJ10&show_icons=true&theme=dark)
+
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark)
 
 
+![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanjay-d&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/sanjay-d)
 
 
 
