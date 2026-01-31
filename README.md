@@ -11,8 +11,12 @@
 </p>
 
 <p align="center">
-  📍 <b>Bengaluru, India</b>
+  📍 <b>Bengaluru, India</b><br>
+
 </p>
+
+
+
 
 ---
 
@@ -103,20 +107,17 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SNDJ10&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sndj10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sndj10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SNDJ10&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
-
-
-
-![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
-
-
-
+  <div align="center">
+  ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
+  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
-
-
+</div>
 
 ---
 
