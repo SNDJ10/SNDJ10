@@ -62,25 +62,7 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SNDJ10&theme=github-dark&hide_border=true)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sndj10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
-  <img src="https://github-profile-trophy.vercel.app?username=sndj10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=sndj10&theme=dracula&title=Commit,Repositories,Stars,Followers,MultiLanguage,Experience" />
-
-</div>
-
-  <div align="center">
-  ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
-  
-
-![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
-</div>
-
----
 
 ### 💼 **Experience**
 
@@ -123,6 +105,25 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 
 * 🎓 **B.E. Computer Science Engineering** (2025 Passed)
 * 📜 **Cloud Application Developer Certification** (Rooman Technologies / NASSCOM / IBM)
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sndj10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
+  <img src="https://github-profile-trophy.vercel.app?username=sndj10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sndj10&theme=dracula&title=Commit,Repositories,Stars,Followers,MultiLanguage,Experience" />
+
+</div>
+
+  <div align="center">
+  ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
+  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
+</div>
 
 ---
 
