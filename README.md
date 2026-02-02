@@ -15,6 +15,7 @@
 
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
 
 
 
@@ -122,7 +123,6 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
   ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
   
 
-![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
 </div>
 
 ---
