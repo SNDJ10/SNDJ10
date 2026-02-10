@@ -19,7 +19,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SNDJ10&color=green)
 
 
-
 ---
 
 ### 👨‍💻 **Professional Summary**
