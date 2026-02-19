@@ -121,8 +121,7 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 </div>
 
   <div align="center">
-  ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social)
-  
+  ![Followers](https://img.shields.io/github/followers/SNDJ10?label=Followers&style=social) 
 
 </div>
 
