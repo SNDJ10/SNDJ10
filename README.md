@@ -57,6 +57,7 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 <div align="center">
   <img src="https://raw.githubusercontent.com/SNDJ10/SNDJ10/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SNDJ10&theme=github-dark&hide_border=true)
 
 ### 🔥 Streak Statistics
