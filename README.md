@@ -129,5 +129,4 @@ I have a strong foundation in OOPs, MVC architecture, and real-time debugging, a
 <div align="center">
   <img src="https://raw.githubusercontent.com/SNDJ10/SNDJ10/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
-
 <br/>
